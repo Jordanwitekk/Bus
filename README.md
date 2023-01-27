@@ -1,8 +1,8 @@
 # Bus
 Project title : Real-Time-Bus-Tracker 
 
-<img src="bustracker.png" width='200'/>
 
+<img src="https://jordanwitekk.github.io/Bus//blob/main/busTracker.png" width='400'>
 
 
 Desprection:
