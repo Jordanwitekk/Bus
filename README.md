@@ -2,8 +2,7 @@
 Project title : Real-Time-Bus-Tracker 
 
 
-<img src="https://jordanwitekk.github.io/Bus/blob/main/busTracker.png" width='400'>
-
+<img src="https://jordanwitekk.github.io/Bus/Bus-Stops-Map-Animation/blob/main/busTracker.png" width='400'>
 
 Desprection:
 
