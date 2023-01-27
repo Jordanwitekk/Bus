@@ -18,6 +18,5 @@ Roadmap of future improvements:
 This is a progression project, no further development is anticipated at this time.
 
 Demo: https://jordanwitekk.github.io/Bus/
-License info: 
 
-This project is licensed under the MIT License. 
+License info: This project is licensed under the MIT License. 
